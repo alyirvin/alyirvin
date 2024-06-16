@@ -12,7 +12,7 @@ public class Aly
   public Aly()
   {
     this.pronouns = new Pronouns("she", "her", "her", "hers", "herself");
-    this.linkedInUrl = "https://www.linkedin.com/in/alyshairvin/"
+    this.linkedInUrl = "https://www.linkedin.com/in/alyshairvin/";
   }
 
   public void greet()
